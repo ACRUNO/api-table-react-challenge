@@ -57,7 +57,7 @@ export default function App() {
           </tbody>
         </table>
         :
-        //aca se muestra el loader en caso de que no tener data en el response
+        //aca se muestra el loader en caso de no tener data en el response
         <div className="loader"></div>
       }
     </div>
